@@ -1,5 +1,9 @@
 # Data augmented nonparamteric noise contrastive estimation
 
+This repository contains the code used for the paper
+
+> Chenghao Li and Yuanyuan Lin. A data-augmented contrastive learning approach to nonparametric density estimation. Journal of Machine Learning Research. 2026, accepted.
+
 ## Requirements
 
 The main requirements:
@@ -27,7 +31,7 @@ The following three models of data ditributions has been implemented in the code
 
 Before running `main_est.py`, you may specfiy 
 - `[rho]`: The parameter of data augmentation, $\rho$;
-- `[model_type]`: the distribution model type, one of 'indep_GMM', 'octagon_GMM', or 'involute'.
+- `[model_type]`: the distribution model type, one of 'indep_GMM', 'octagon_GMM', or 'involute'. 
 The configuration files of all parameters related to network training are in the `configs` folder.
 
 ### Higher dimensional experiments
