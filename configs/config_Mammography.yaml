@@ -1,0 +1,15 @@
+seed: 42
+nd: 4
+nw: 256
+var_ref: 0.35
+lr: 0.0002
+lr_step: 15000
+lr_gamma: 0.5
+log_step : 500
+rho: 1.0
+nu: 5
+bs: 10000
+iter_num: 50000
+stop_threshold: 15000
+repetition_num: 3
+output_dir: 'results/Mammography/Mammography_evaluation.csv'

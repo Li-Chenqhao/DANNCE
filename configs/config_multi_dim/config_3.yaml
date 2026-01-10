@@ -1,0 +1,18 @@
+seed: 42
+nd: 4
+nw: 64
+output_scale: 2
+var_ref: 0.6
+lr: 0.0008
+lr_step: 5000
+lr_gamma: 0.5
+log_step : 500
+sample_size: 270000
+rho: 0.3
+nu: 5
+bs: 10000
+iter_num: 30000
+stop_threshold: 10000
+eva_size: 100000
+repetition_num: 5
+output_dir: 'results/indep_gmm_multi_dim/indep_GMM_multi_dim_evaluation_3.csv'
