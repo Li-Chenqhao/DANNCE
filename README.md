@@ -10,7 +10,7 @@ The main requirements:
 - Python>=3.11.3
 - Pytorch>=2.0.1
 
-The details can be find in `requirements.txt`.
+The details can be found in `requirements.txt`.
 You can create an virtual environment using:
 ```shell
 $ conda create --name <env> --file requirements.txt
