@@ -11,7 +11,7 @@ The main requirements:
 - Pytorch>=2.0.1
 
 The details can be found in `environment.yml` and `requirements.txt`.
-You can create an virtual environment using:
+You can create a virtual environment using:
 ```shell
 $ conda env create -f environment.yml
 ```
