@@ -1,7 +1,7 @@
 seed: 42
-nd: 4
+nd: 5
 nw: 512
-var_ref: 0.5
+var_ref: 0.12
 lr: 0.0002
 lr_step: 10000
 lr_gamma: 0.5
@@ -11,5 +11,5 @@ nu: 5
 bs: 10000
 iter_num: 30000
 stop_threshold: 12000
-repetition_num: 5
+repetition_num: 3
 output_dir: 'results/Shuttle/Shuttle_evaluation.csv'
