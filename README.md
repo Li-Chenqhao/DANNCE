@@ -1,4 +1,4 @@
-# Data augmented nonparamteric noise contrastive estimation
+# Data augmented nonparamteric noise contrastive estimation (DANNCE)
 
 This repository contains the code used for the paper
 
@@ -6,15 +6,11 @@ This repository contains the code used for the paper
 
 ## Requirements
 
-The main requirements:
-- Python>=3.11.3
-- Pytorch>=2.0.1
+Main dependencies:
+- Python >= 3.11
+- PyTorch >= 2.0
 
-The details can be found in `environment.yml` and `requirements.txt`.
-You can create a virtual environment using:
-```shell
-$ conda env create -f environment.yml
-```
+Detailed dependency specifications are provided in `environment.yml` and `requirements.txt`.
 
 Code has been tested on [CUHK High-Performance Computing Cluster](https://www.cuhk.edu.hk/itsc/hpc/overview.html) with NVIDIA Tesla V100(32GB)/Tesla P100(16GB) GPUs.
 
