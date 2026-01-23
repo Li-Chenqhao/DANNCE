@@ -10,10 +10,10 @@ The main requirements:
 - Python>=3.11.3
 - Pytorch>=2.0.1
 
-The details can be found in `requirements.txt`.
+The details can be found in `environment.yml` and `requirements.txt`.
 You can create an virtual environment using:
 ```shell
-$ conda create --name <env> --file requirements.txt
+$ conda env create -f environment.yml
 ```
 
 Code has been tested on [CUHK High-Performance Computing Cluster](https://www.cuhk.edu.hk/itsc/hpc/overview.html) with NVIDIA Tesla V100(32GB)/Tesla P100(16GB) GPUs.
