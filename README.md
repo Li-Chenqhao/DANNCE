@@ -4,7 +4,7 @@ This repository contains the code used for the paper
 
 > [Chenghao Li and Yuanyuan Lin. A data-augmented contrastive learning approach to nonparametric density estimation. Journal of Machine Learning Research. 27(10):1−47, 2026.](https://jmlr.org/papers/v27/25-0376.html)
 
-To cite our paper: [bib](https://jmlr.org/papers/v27/25-0376.bib)
+To cite our paper: [.BIB](https://jmlr.org/papers/v27/25-0376.bib)
 
 ## Requirements
 
