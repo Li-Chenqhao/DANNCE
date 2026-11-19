@@ -7,6 +7,16 @@ This repository contains the code used for the paper
 
 To cite our paper: [.BIB](https://jmlr.org/papers/v27/25-0376.bib)
 
+## Python package
+
+A Python package for DANNCE is available on PyPI as [`dannce-density`](https://pypi.org/project/dannce-density/).
+
+To install it, run the following command using Python 3.11 or later.
+
+```bash
+python -m pip install dannce-density
+```
+
 ## Requirements
 
 Main dependencies:
